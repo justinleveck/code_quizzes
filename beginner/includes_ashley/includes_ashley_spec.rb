@@ -1,4 +1,4 @@
-require './includes_ashley_solution'
+require './includes_ashley'
 
 describe Array, "#includes_ashley?" do
 
