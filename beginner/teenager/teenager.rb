@@ -2,6 +2,8 @@
 #true/false depending on whether the age indicates that the person is a 
 #teenager
 
+#To test your solution run `rspec teenager_spec.rb` in your terminal
+
 def is_a_teenager?
   #code goes here
 end
