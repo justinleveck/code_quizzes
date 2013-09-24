@@ -1,4 +1,4 @@
-require './format_number_solution'
+require './format_number'
 
 describe Integer, "#format" do
 
