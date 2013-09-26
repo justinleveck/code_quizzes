@@ -1,6 +1,6 @@
 # Javascript Code Quizzes
 
-This is a javascript clone of the ruby code quizzes using (Jasmine)[http://pivotal.github.io/jasmine/] for testing.
+This is a javascript clone of the ruby code quizzes using [Jasmine](http://pivotal.github.io/jasmine/) for testing.
 
 ## What's Included
 
@@ -27,11 +27,11 @@ The JCQ contains an instance of Jasmine Standalone (v1.3.1) as well as a folder 
 
 2. Drop the spec file into the `spec` folder.
 
-3. Open `SpecRunner.html` in a browser of your choice. We recommend a recent version of (Chrome)[https://www.google.com/intl/en/chrome/browser/] or (Firefox)[http://www.mozilla.org/en-US/firefox/new/].
+3. Open `SpecRunner.html` in a browser of your choice. We recommend a recent version of [Chrome](https://www.google.com/intl/en/chrome/browser/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/).
 
    When you open this file, you should see that all the tests for the solution pass, and all the tests for the question fail.
 
-4. Open the question javascript file in a text-editor of your choosing. We recommend (Sublime Text)[http://www.sublimetext.com/].
+4. Open the question javascript file in a text-editor of your choosing. We recommend [Sublime Text](http://www.sublimetext.com/).
 
 5. Based on the instructions in the question file and the steps in the spec, fill in the code that causes all the tests to pass.
 
