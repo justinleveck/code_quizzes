@@ -29,7 +29,7 @@ The JCQ contains an instance of Jasmine Standalone (v1.3.1) as well as a folder 
 
 3. Open `SpecRunner.html` in a browser of your choice. We recommend a recent version of (Chrome)[https://www.google.com/intl/en/chrome/browser/] or (Firefox)[http://www.mozilla.org/en-US/firefox/new/].
 
-When you open this file, you should see that all the tests for the solution pass, and all the tests for the question fail.
+   When you open this file, you should see that all the tests for the solution pass, and all the tests for the question fail.
 
 4. Open the question javascript file in a text-editor of your choosing. We recommend (Sublime Text)[http://www.sublimetext.com/].
 
