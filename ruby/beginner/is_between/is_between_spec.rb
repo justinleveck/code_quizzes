@@ -1,4 +1,4 @@
-require './is_between'
+require './is_between_solution'
 
 describe Integer, "#is_between?" do
 
