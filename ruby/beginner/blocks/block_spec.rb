@@ -1,4 +1,4 @@
-require './block_solution'
+require './block'
 
 describe "#test" do
   it "should not blow up" do
